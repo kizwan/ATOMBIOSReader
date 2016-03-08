@@ -7,8 +7,8 @@ http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/drivers/gpu/
 
 https://cgit.freedesktop.org/~mhopf/AtomDis/tree/indices.c
 
-Example generated master list of command and data tables:-
-Read f800 bytes of data from D:\Drivers\Dell Studio 1557\BIOS\ATIMobilityRadeonHD4570.bin
+\*Example generated master list of command and data tables:-
+Read f800 bytes of data from D:\Drivers\Dell Studio 1557\BIOS\ATIMobilityRadeonHD4570.bin\*
 
 Command Tables:
   0000:   b8b4  Len 0054  (ASIC_Init)
