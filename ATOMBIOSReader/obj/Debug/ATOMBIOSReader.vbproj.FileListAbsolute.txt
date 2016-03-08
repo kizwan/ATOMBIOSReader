@@ -1,0 +1,20 @@
+C:\Users\kizwan\AppData\Local\Temporary Projects\ATOMBIOSReader\bin\Debug\ATOMBIOSReader.exe.config
+C:\Users\kizwan\AppData\Local\Temporary Projects\ATOMBIOSReader\obj\Debug\ATOMBIOSReader.vbprojResolveAssemblyReference.cache
+C:\Users\kizwan\AppData\Local\Temporary Projects\ATOMBIOSReader\obj\Debug\ATOMBIOSReader.Resources.resources
+C:\Users\kizwan\AppData\Local\Temporary Projects\ATOMBIOSReader\obj\Debug\ATOMBIOSReader.vbproj.GenerateResource.Cache
+C:\Users\kizwan\AppData\Local\Temporary Projects\ATOMBIOSReader\obj\Debug\ATOMBIOSReader.xml
+C:\Users\kizwan\AppData\Local\Temporary Projects\ATOMBIOSReader\bin\Debug\ATOMBIOSReader.exe
+C:\Users\kizwan\AppData\Local\Temporary Projects\ATOMBIOSReader\bin\Debug\ATOMBIOSReader.pdb
+C:\Users\kizwan\AppData\Local\Temporary Projects\ATOMBIOSReader\bin\Debug\ATOMBIOSReader.xml
+C:\Users\kizwan\AppData\Local\Temporary Projects\ATOMBIOSReader\obj\Debug\ATOMBIOSReader.exe
+C:\Users\kizwan\AppData\Local\Temporary Projects\ATOMBIOSReader\obj\Debug\ATOMBIOSReader.pdb
+C:\Users\kizwan\Documents\Visual Studio 2015\Projects\ATOMBIOSReader\ATOMBIOSReader\bin\Debug\ATOMBIOSReader.exe.config
+C:\Users\kizwan\Documents\Visual Studio 2015\Projects\ATOMBIOSReader\ATOMBIOSReader\obj\Debug\ATOMBIOSReader.exe
+C:\Users\kizwan\Documents\Visual Studio 2015\Projects\ATOMBIOSReader\ATOMBIOSReader\obj\Debug\ATOMBIOSReader.xml
+C:\Users\kizwan\Documents\Visual Studio 2015\Projects\ATOMBIOSReader\ATOMBIOSReader\obj\Debug\ATOMBIOSReader.pdb
+C:\Users\kizwan\Documents\Visual Studio 2015\Projects\ATOMBIOSReader\ATOMBIOSReader\bin\Debug\ATOMBIOSReader.exe
+C:\Users\kizwan\Documents\Visual Studio 2015\Projects\ATOMBIOSReader\ATOMBIOSReader\bin\Debug\ATOMBIOSReader.pdb
+C:\Users\kizwan\Documents\Visual Studio 2015\Projects\ATOMBIOSReader\ATOMBIOSReader\bin\Debug\ATOMBIOSReader.xml
+C:\Users\kizwan\Documents\Visual Studio 2015\Projects\ATOMBIOSReader\ATOMBIOSReader\obj\Debug\ATOMBIOSReader.Resources.resources
+C:\Users\kizwan\Documents\Visual Studio 2015\Projects\ATOMBIOSReader\ATOMBIOSReader\obj\Debug\ATOMBIOSReader.vbproj.GenerateResource.Cache
+C:\Users\kizwan\Documents\Visual Studio 2015\Projects\ATOMBIOSReader\ATOMBIOSReader\obj\Debug\ATOMBIOSReader.ATOMBIOSReader.resources
