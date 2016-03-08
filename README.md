@@ -1,14 +1,15 @@
 # ATOMBIOSReader
-Generate master list of command and data tables in ATOM BIOS
+### Generate master list of command and data tables from ATOM BIOS
 
+![alt text](https://github.com/kizwan/ATOMBIOSReader/blob/master/ATOMBIOSReader/ATOMBIOSReader.jpg "ATOMBIOSReader")
+
+```
 Source of information:-
-
 http://git.kernel.org/cgit/linux/kernel/git/torvalds/linux.git/tree/drivers/gpu/drm/radeon/atombios.h
-
 https://cgit.freedesktop.org/~mhopf/AtomDis/tree/indices.c
 
-\*Example generated master list of command and data tables:-
-Read f800 bytes of data from D:\Drivers\Dell Studio 1557\BIOS\ATIMobilityRadeonHD4570.bin\*
+Example generated master list of command and data tables:-
+Read f800 bytes of data from D:\Drivers\Dell Studio 1557\BIOS\ATIMobilityRadeonHD4570.bin
 
 Command Tables:
   0000:   b8b4  Len 0054  (ASIC_Init)
@@ -127,3 +128,4 @@ Data Tables:
   001f:   -                          (ASIC_ProfilingInfo/ASIC_VDDCI_Info)
   0020:   b7da  Len 0022  Rev 01:01  (VoltageObjectInfo/VRAM_GPIO_DetectionInfo)
   0021:   -                          (PowerSourceInfo)
+```
